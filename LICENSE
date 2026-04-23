@@ -1,0 +1,88 @@
+# The Intensive Proprietary License
+
+Copyright (c) 2026 Fulcrum Insights (d/b/a The Intensive). All Rights Reserved.
+
+THIS IS NOT AN OPEN-SOURCE LICENSE. This software is the proprietary and confidential property of Fulcrum Insights ("Licensor") and is made available solely to active, paying subscribers of The Intensive program (theintensive.ai). Unauthorized access, copying, or distribution is strictly prohibited and will be pursued to the fullest extent permitted by law.
+
+## 1. Grant of License
+
+Subject to Licensee's continuous compliance with this License and Licensee's status as an active, paying subscriber of The Intensive, Licensor grants Licensee a **limited, personal, non-exclusive, non-transferable, non-sublicensable, revocable** license to access, fork, clone, modify, and deploy the contents of this repository ("the Software") **solely for Licensee's own internal use in connection with Licensee's active participation in The Intensive program**.
+
+No license is granted by implication, estoppel, or otherwise. Any access or use by any person who is not a current paying subscriber of The Intensive is unauthorized and constitutes willful copyright infringement.
+
+## 2. Prohibited Uses
+
+Licensee shall NOT, directly or indirectly, and shall not permit any third party to:
+
+(a) **Share, distribute, transmit, or disclose** the Software to any person who is not an active, paying subscriber of The Intensive, including but not limited to former subscribers, family members, colleagues, friends, clients, employees, contractors, or business partners of Licensee;
+
+(b) **Publish, post, upload, host, or mirror** the Software, in whole or in part, to any publicly accessible location, including public GitHub repositories, GitLab, BitBucket, file-sharing services, paste sites, forums, chat channels, social media, AI training datasets, or any medium by which non-subscribers could obtain access;
+
+(c) **Use the Software to compete** with The Intensive, including by offering training, consulting, courseware, software, or services substantially derived from or incorporating the Software;
+
+(d) **Remove, alter, modify, or obscure** any copyright notice, proprietary notice, trademark, watermark, or this LICENSE file;
+
+(e) **Misrepresent** that any derivative work produced by Licensee is endorsed by, sponsored by, or officially affiliated with The Intensive or Fulcrum Insights;
+
+(f) **Reverse-engineer, decompile, or disassemble** any binary or compiled artifact produced from the Software, except to the minimum extent expressly permitted by applicable law notwithstanding this limitation;
+
+(g) **Transfer, sell, rent, lease, sublicense, or assign** this License or any rights granted hereunder to any person or entity.
+
+## 3. Termination
+
+This License **terminates automatically and without notice** upon the earliest of:
+
+(a) Termination, cancellation, non-renewal, refund, chargeback, or lapse of Licensee's paid subscription to The Intensive, for any reason;
+
+(b) Any breach by Licensee of any term of this License;
+
+(c) Written notice of revocation from Licensor for any reason or no reason.
+
+Upon termination, Licensee shall **immediately**:
+
+(i) Cease all use of the Software;
+(ii) Delete all copies of the Software in Licensee's possession, custody, or control, including all forks, clones, local working copies, backups, derivative works, and any secrets, tokens, or credentials derived from or used with the Software;
+(iii) Upon Licensor's written request, certify in writing that such deletion has been completed.
+
+## 4. Ownership
+
+All right, title, and interest in and to the Software, including all copyrights, trademarks, trade secrets, patents, know-how, and all other intellectual property rights, are and shall remain the exclusive property of Licensor. This License does not transfer any ownership interest whatsoever in the Software. All rights not expressly granted herein are reserved by Licensor.
+
+## 5. Confidentiality
+
+The Software contains proprietary and confidential information. Licensee shall maintain the Software in strict confidence, shall not disclose it to any unauthorized third party, and shall exercise no less than reasonable care to protect it from unauthorized access or disclosure.
+
+## 6. Disclaimer of Warranty
+
+THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT WARRANTY OF ANY KIND, EXPRESS, IMPLIED, OR STATUTORY, INCLUDING WITHOUT LIMITATION THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NONINFRINGEMENT, TITLE, ACCURACY, AND QUIET ENJOYMENT. LICENSEE ASSUMES THE ENTIRE RISK AS TO THE QUALITY, PERFORMANCE, AND USE OF THE SOFTWARE.
+
+## 7. Limitation of Liability
+
+IN NO EVENT SHALL LICENSOR OR ITS AFFILIATES BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, PUNITIVE, OR EXEMPLARY DAMAGES, OR FOR LOST PROFITS, LOST REVENUE, LOST DATA, OR BUSINESS INTERRUPTION, ARISING OUT OF OR RELATED TO THIS LICENSE OR THE SOFTWARE, WHETHER BASED ON CONTRACT, TORT (INCLUDING NEGLIGENCE), STRICT LIABILITY, OR ANY OTHER THEORY, EVEN IF LICENSOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. LICENSOR'S TOTAL AGGREGATE LIABILITY UNDER THIS LICENSE SHALL NOT EXCEED ONE HUNDRED UNITED STATES DOLLARS (US$100.00).
+
+## 8. Enforcement and Remedies
+
+Licensee acknowledges that any breach of Sections 1, 2, 4, or 5 of this License would cause **irreparable harm** to Licensor for which monetary damages would be inadequate. Licensor shall be entitled to seek **immediate injunctive relief**, specific performance, and any other equitable relief, in addition to monetary damages and any other remedies available at law or in equity. Licensor is entitled to **recover all reasonable attorneys' fees, court costs, investigative expenses, and statutory damages** incurred in enforcing this License. Licensor expressly reserves all rights and remedies; no failure or delay in enforcing any provision shall constitute a waiver.
+
+## 9. Reporting Violations
+
+If you become aware of unauthorized access to or distribution of the Software, report immediately to: **matt@fulcruminsights.io**. Licensor may, in its sole discretion, offer consideration to reporters whose tips lead to enforcement action.
+
+## 10. Governing Law; Jurisdiction
+
+This License is governed by and construed in accordance with the laws of the United States of America and the state in which Licensor maintains its principal place of business, without regard to conflict-of-law principles. Licensee irrevocably consents to the exclusive personal jurisdiction and venue of the state and federal courts located within that jurisdiction for any dispute arising out of or relating to this License. Licensee waives any objection to such jurisdiction or venue, including on grounds of forum non conveniens.
+
+## 11. Severability
+
+If any provision of this License is held unenforceable, that provision shall be modified only to the minimum extent necessary to make it enforceable, and the remaining provisions shall continue in full force and effect.
+
+## 12. Entire Agreement
+
+This License constitutes the entire agreement between Licensee and Licensor regarding the Software and supersedes all prior agreements, understandings, and communications, whether oral or written.
+
+---
+
+**BY FORKING, CLONING, COPYING, MODIFYING, DEPLOYING, OR OTHERWISE ACCESSING THE SOFTWARE, LICENSEE AGREES TO BE BOUND BY THIS LICENSE. IF LICENSEE DOES NOT AGREE, LICENSEE MUST NOT ACCESS, FORK, CLONE, COPY, OR OTHERWISE USE THE SOFTWARE AND MUST IMMEDIATELY DELETE ANY COPIES IN LICENSEE'S POSSESSION.**
+
+Questions, license requests, or violation reports: matt@fulcruminsights.io
+The Intensive -- theintensive.ai
